@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "docker": "^1.0.0",
+    "next": "^13.1.6",
+    "node": "^18.14.0"
+  },
+  "name": "sorry",
+  "description": "mais um começo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miguel-Gadelha-Cavalcante/Tabua-Nova.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Miguel-Gadelha-Cavalcante/Tabua-Nova/issues"
+  },
+  "homepage": "https://github.com/Miguel-Gadelha-Cavalcante/Tabua-Nova#readme"
+}
