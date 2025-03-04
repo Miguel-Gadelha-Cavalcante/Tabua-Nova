@@ -7,4 +7,11 @@ function Home() {
   );
 }
 
+function teste() {
+  return console.log("Olá, mundo!");
+}
+function teste2() {
+  return console.log("identação errada");
+}
+
 export default Home;
